@@ -1,0 +1,25 @@
+{
+  "arts": [
+    {
+      "id": 1,
+      "titre": "Soleil Levant",
+      "auteur": "Claude Monet",
+      "prix": 1200,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Claude_Monet%2C_Impression%2C_soleil_levant.jpg"
+    },
+    {
+      "id": 2,
+      "titre": "La Nuit Étoilée",
+      "auteur": "Vincent van Gogh",
+      "prix": 2000,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+    },
+    {
+      "id": 3,
+      "titre": "Mona Lisa",
+      "auteur": "Léonard de Vinci",
+      "prix": 5000,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mona_Lisa.jpg"
+    }
+  ]
+}
